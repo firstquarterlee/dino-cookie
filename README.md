@@ -2,19 +2,21 @@
 
 ## 프로젝트 구조
 
-household-account-book/
-├── src/
-│ ├── app/
-│ │ ├── api/
-│ │ │ ├── auth/
-│ │ │ ├── expenses/
-│ │ │ └── categories/
-│ ├── components/
-│ ├── lib/
-│ └── types/
-├── public/
-├── prisma/
+```
+household-account-book
+├── src
+│   ├── app
+│   │   └── api
+│   │       ├── auth
+│   │       ├── expenses
+│   │       └── categories
+│   ├── components
+│   ├── lib
+│   └── types
+├── public
+├── prisma
 └── package.json
+```
 
 ## 기술 스택
 
